@@ -1,4 +1,4 @@
-# K016-KAZUHIRO-IKEDA.github.io
+##### GitHub Pages
 
 ## リンク
 - [google](https:///www.google.com/)<br>
